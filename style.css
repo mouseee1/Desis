@@ -1,0 +1,39 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    align-items: center;
+    
+
+}
+
+h2{
+    display: flex;
+    justify-content: left;
+    padding: 5px;
+    margin: 50px 15px;
+
+}
+.input-warpper{
+    text-align: left;
+    align-items: center;
+    display: center;
+    justify-content: center;
+    padding: 3px;
+    padding-left: 0px 25px;
+    margin-left: 0px 155px;
+}
+label{
+    padding-right: 50px;
+    size: 25px;
+}
+
+.buton{
+    padding: 0;
+}
+.input-warpper.check-box{
+    padding: 80px;
+}
+
+.input-warpper.check-box.checbok4{
+    padding: 15px;
+}
